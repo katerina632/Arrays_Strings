@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\Arrays.Strings\bin\Debug\Arrays.Strings.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\Arrays.Strings\bin\Debug\Arrays.Strings.exe
+F:\ITStep\2 курс\C#\Домашная робота\Arrays.Strings\bin\Debug\Arrays.Strings.pdb
+F:\ITStep\2 курс\C#\Домашная робота\Arrays.Strings\obj\Debug\Arrays.Strings.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\Arrays.Strings\obj\Debug\Arrays.Strings.exe
+F:\ITStep\2 курс\C#\Домашная робота\Arrays.Strings\obj\Debug\Arrays.Strings.pdb
